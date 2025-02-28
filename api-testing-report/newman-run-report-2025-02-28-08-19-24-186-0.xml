@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="demo-api" tests="2" time="0.649">
+  <testsuite name="get user" id="56cf972a-3554-43c0-9093-4d572c50991e" timestamp="2025-02-28T08:19:23.371Z" tests="3" failures="0" errors="0" time="0.542">
+    <testcase name="Status code is 200" time="0.542" classname="DemoApi"/>
+    <testcase name="Your test name" time="0.542" classname="DemoApi"/>
+    <testcase name="Response has the correct schema" time="0.542" classname="DemoApi"/>
+  </testsuite>
+  <testsuite name="get user by id" id="5bc09c3a-762c-4876-be4e-d60cc514c3e9" timestamp="2025-02-28T08:19:23.371Z" tests="0" failures="0" errors="0" time="0.107"/>
+</testsuites>
